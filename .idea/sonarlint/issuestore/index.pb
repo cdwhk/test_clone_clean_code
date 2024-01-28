@@ -1,3 +1,25 @@
 
 ^
 .test_clone_automated_clean_code/pyproject.toml,9\e\9e27cb467f74513dbe797ccf73621ae8b6d3fb49
+t
+Dtest_clone_automated_clean_code/src/automated_clean_code/__init__.py,7\e\7e7ebeed016672979ef0558b32d159a0a2eff24e
+W
+'test_clone_automated_clean_code/tox.ini,c\d\cd22d5cc90901c35d8795f4971fea3f3c8eef6e0
+h
+8test_clone_automated_clean_code/sonar-project.properties,4\7\47c5567de51910965a7663d6d60e1c070ff44210
+[
++test_clone_automated_clean_code/poetry.lock,a\f\af43502abb9cc61488d5d9dce8cd55503320f193
+Å
+Q.idea/sonarlint/securityhotspotstore/7/e/7e7ebeed016672979ef0558b32d159a0a2eff24e,d\e\de602d79fc927c1c89c9802fd8ba03430d4cd728
+w
+G.idea/sonarlint/issuestore/7/e/7e7ebeed016672979ef0558b32d159a0a2eff24e,e\d\eda7256f00ca41cbff61b3e89795cdb9030f6b1d
+w
+G.idea/sonarlint/issuestore/c/d/cd22d5cc90901c35d8795f4971fea3f3c8eef6e0,0\2\029b72057428d94658eba04f24b9928a1bc41b71
+Å
+Q.idea/sonarlint/securityhotspotstore/c/d/cd22d5cc90901c35d8795f4971fea3f3c8eef6e0,c\7\c7b8b9f7f6b433bec86c84aba420130f1f7e3400
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+g
+7test_clone_automated_clean_code/.pre-commit-config.yaml,8\c\8c202471333043ffbdd7b05f83324e7bba4fb9ae
