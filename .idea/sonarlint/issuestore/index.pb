@@ -23,3 +23,5 @@ S
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 g
 7test_clone_automated_clean_code/.pre-commit-config.yaml,8\c\8c202471333043ffbdd7b05f83324e7bba4fb9ae
+r
+Btest_clone_automated_clean_code/.github/workflows/python-tests.yml,d\b\db493c9cf02fe38c584850d38d6be3430256b05e
